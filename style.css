@@ -1,0 +1,40 @@
+html {
+    font-family: sans-serif;
+  }
+
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background: url("BackgroundNumImg.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  h1{
+    margin-top: 250px;
+    color: white;
+  }
+  .list{
+    margin-left: 130px;
+    color: white;
+  }
+  .form{
+    margin-top: 40px;
+    margin-left:150px;
+  }
+  .form input[type="number"] {
+    width: 200px;
+  }
+  .form input[type="submit"] {
+    margin-top: 20px;
+    margin-left: 150px;
+  }
+  label{
+    color: white;
+  }
+
+  .lastResult {
+    color: white;
+    padding: 3px;
+  }
